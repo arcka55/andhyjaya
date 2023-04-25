@@ -3,4 +3,4 @@
 - Database Barang
 - Log Harga
 - Kasir
-- Management Pemebelian
+- Management Pembelian
